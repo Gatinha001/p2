@@ -1,0 +1,13 @@
+.leiaute-cabecalho {
+    height: 80px;
+    border-bottom: 1px solid black;
+    background-color: black;
+}
+
+#options{
+    color: white;
+}
+
+#options:hover{
+    background-color: black;
+}

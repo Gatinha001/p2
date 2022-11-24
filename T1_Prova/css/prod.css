@@ -1,0 +1,60 @@
+#prod {
+    padding: 12px;
+    border: 3px solid black;
+    align-items: center;
+}
+
+#name_prod{
+    margin: -15px;
+    margin-bottom: 0;
+    height: 100%;
+
+    background-color: black;
+    color: #fff;
+
+    text-align: center;
+    line-height: 3;
+    font-weight: normal;
+    font-size: large;
+}
+
+#botao_info{
+    display: inline-block;
+    padding: 0.8em 1.2em;
+    margin: 5px;
+    width: 100%;
+
+    background-color: black;
+    color: white;
+
+    font-size: 1em;
+    text-decoration: none;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#botao{
+    display: inline-block;
+    padding: 0.8em 1.2em;
+    margin: 5px;
+    width: 100%;
+
+    background-color: white;
+    color: black;
+
+    font-size: 1em;
+    text-decoration: none;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#botao:hover , #botao:focus {
+    background-color: gray;
+    outline:auto;
+}
+
+
+#botao_info:hover , #botao_info:focus {
+    background-color: gray;
+    outline:auto;
+}
